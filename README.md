@@ -1,2 +1,1 @@
-# catsvsdogs
-This Deep Learning model will differentiste between cats and dogs.
+# HackerEarth-American Express Artificial Intelligence Internship Challenge
