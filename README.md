@@ -4,6 +4,9 @@
 
 ## Link to the challenge
 [Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
+
+## Link to the Dataset
+[Link to the dataset](https://drive.google.com/drive/folders/1rFZGwkfZVyGv5UVyqukLcWYpct-IcoIj?usp=sharing)
 ## This Problem involves
 - Handle data to pre-process and generate relevant features and insights for modeling.
 - Basic Knowledge of deeplearning algorithms.
