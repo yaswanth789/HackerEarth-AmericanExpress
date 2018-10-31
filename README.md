@@ -2,6 +2,8 @@
 - Problem Name: Supervised-Modeling-with-Emphasis-on-LAUC
 - Probelm2 in HackerEarth-American Express Artificial Intelligence Internship Challenge
 
+## Link to the challenge
+[Link to the Challenge](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/)
 ## This Problem involves
 - Handle data to pre-process and generate relevant features and insights for modeling.
 - Basic Knowledge of deeplearning algorithms.
