@@ -18,7 +18,8 @@
 
 ## Rank
 - 143 out of 1354 Participants(Final Rank).
-- [link to the leaderboard](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/leaderboard/):Subbu215
+- [link to the leaderboard](https://www.hackerearth.com/challenge/hiring/ai-problem-statement-2/leaderboard/)
+- Name:Subbu215
 
 ## Language
 - Python
