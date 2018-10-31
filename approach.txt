@@ -1,0 +1,26 @@
+American Express Artificial Intelligence Problem statement 2: Supervised Modeling with Emphasis on LAUC
+
+The goal is to build a supervised model on a sample of fraud data where both AUC and LAUC is as strong as possible.
+_______________________________________________________________
+Dataset:
+406709 rows and 54 variables (10 Numerical and 44 Categorical)
+_______________________________________________________________
+Language: Python
+Editor: Jupyter notebook
+Libraries used: Numpy, Pandas, sklearn, matplotlib, keras
+_______________________________________________________________
+Jupyter notebook is well commented explaining each step of my approach.
+_______________________________________________________________
+Approach:
+
+While working on a problem, analysing data is more important than applying a model, which helps us to preprocess the data in a better way and inturn increases the efficiency of model. Also, AUC curve on training set at each stage of the modelling is analysed.
+
+Some of the preprocessing steps that are applied to the dataset:
+1. Data balancing: As the data points in both the classes are around 2,00,000, there is no need to balance data. The data is balanced already.
+2. If there are two or more columns that are highly correlated with each other, then it really affects the model's accuracy. But, there are no columns in the given data, that have correlation more than 0.95.
+3. If there are duplicates in the training data, then there is a high chance of overfitting which affects the accuracy/score when tested on new data. Even though the data set has around 4 lakh columns, there are no duplicate rows in the data.
+4. If there are any constant columns in the dataset, there is no use to use that feature to train the data. But, there are no constant columns in the dataset.
+
+While Training,I dropped the first and last columns in the training set (label,key) so that the test and train seet havee same number of columns and it would be eaasy to fit the model.
+
+I wrote a deep learning model which approimates the predicted values close to the real values.
